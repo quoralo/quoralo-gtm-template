@@ -1,0 +1,6 @@
+homepage: "https://www.quoralo.com"
+documentation: "https://github.com/quoralo/quoralo-gtm-template#readme"
+versions:
+  # Latest version
+  - sha: 020e8f7336c34b18f0ac2b99a05e883824ea96e2
+    changeNotes: Initial release.
